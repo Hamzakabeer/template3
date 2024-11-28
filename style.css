@@ -1413,7 +1413,7 @@ display: none;
        }
 
     .hero-image {
-        margin-top: -5rem;
+        margin-top: -2rem;
         margin-left: -35px;
       
     }
@@ -1423,7 +1423,7 @@ display: none;
     }
     .hero-section p {
         margin-bottom: 4rem;
-        font-size: 0.2rem;
+        font-size: 1rem;
         justify-content: right;
         color: #7B7E86;
         text-align: left;
